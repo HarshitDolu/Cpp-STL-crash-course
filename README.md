@@ -1,4 +1,4 @@
-# C-STL-crash-course
+# Cpp STL-crash-course
 
 This course is designed to be slow-paced, simple and rich in demystifying the question: What really is an STL? These few lectures serve as a crucial foundation for Data structures and Algorithms (DSA). 
 
