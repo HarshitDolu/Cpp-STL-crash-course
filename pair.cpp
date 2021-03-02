@@ -1,5 +1,6 @@
-#include<iostream>
-#include<utility>
+
+#include<bits/stdc++.h>
+//Rather than using two header file we can use this stand alone header file
 using namespace std;
 
 // Simple container
