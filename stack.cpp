@@ -12,7 +12,7 @@ int main(){
 	
 	cout<<s.top()<<endl;    // 3
 	cout<<s.size();        // 3
-	s.clear();          
+	       
 	
 	if(s.empty())
 	cout<<"Yes"<<endl;
