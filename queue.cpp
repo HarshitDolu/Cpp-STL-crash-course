@@ -17,7 +17,6 @@ int main(){
 	       
 	cout<<q.back();																// 3
 	
-	q.clear();          
 	
 	if(q.empty())
 	cout<<"Yes"<<endl;
