@@ -14,16 +14,18 @@ int main(){
 	
 	// simple loop
 	for(int i=0;i<v.size();i++)
-	cout<<v[i]<<" ";
-	
+	{
+		cout<<v[i]<<" ";
+	}
 	cout<<endl;
 	
 	v.pop_back();
 	
 	// iterator
 	for(auto it=v.begin();it!=v.end();it++)
-	cout<<*it<<" ";
-	
+	{
+		cout<<*it<<" ";
+	}
 	cout<<endl;
 	
 	// taking user input
@@ -32,8 +34,9 @@ int main(){
 	cin>>n;
 	vector<int>v1(n,0);
 	for(int i=0;i<n;i++)
-	cin>>v[i];
-	
+	{
+		cin>>v[i];
+	}
 	
 	return 0;
 }
