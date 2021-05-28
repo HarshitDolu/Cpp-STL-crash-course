@@ -2,7 +2,7 @@
 
 This course is designed to be slow-paced, simple and rich in demystifying the question: What really is an STL? These few lectures serve as a crucial foundation for Data structures and Algorithms (DSA). 
 
-STL- Standard Template Library is a must, if you want to start Data Structures and Algorithms.
+STL- Standard Template Library is a must, if you want to start Data Structures and Algorithms. This course will help you a lot.
 
 In this course, we will cover everything regarding STL, which includes : Containers, Iterators, Algorithms.It includes simple,  adapter and associative containers. We will learn detailed implementation of inbuilt templates. 
 
