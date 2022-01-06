@@ -14,8 +14,6 @@ int main(){
 	
 	l2.push_front(4);
 	
-	cout<<l2.size();
-	
 	for(auto it=l1.begin();it!=l1.end();it++)
 	cout<<*it<<" ";
 	// Doubly LL
